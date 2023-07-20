@@ -17,7 +17,7 @@
    
 
 #
-To use Api, you only need to copy the codes because the username and password of the Api admin panel belong to me.
+**To use Api**, you only need to copy the codes because the username and password of the Api admin panel belong to me.
 
   ## 💰 You can help me by Donating
 <a href="https://www.buymeacoffee.com/yazdandev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
